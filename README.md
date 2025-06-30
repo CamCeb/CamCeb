@@ -12,7 +12,7 @@
 
 - 👨‍💻 I’m currently looking for **Software Engineering roles** (full-time/internship) in:
   - Embedded, Robotics, Cloud, AI/ML, Mobile, Web (Trying to find my area of interest)
-- 🛠️ Currently working on: **Miniature AI obstacle detection forklift robot**
+- 🛠️ Currently working on: **Miniature forklift robot with YOLO v8 object detection**
 - 🌱 Learning: **Currently taking a deep dive into C++**
 
 ---
